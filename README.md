@@ -8,4 +8,4 @@
 - [X] Social Media Icons
 - [ ] Work History
 
-[Visit Demo](https://github.com/sirkiraz/PersonelWebsite)
+[Visit](https://github.com/sirkiraz/PersonelWebsite)
